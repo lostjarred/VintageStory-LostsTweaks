@@ -1,0 +1,11 @@
+{
+    "type": "Content",
+    "modid": "craftinsticks",
+    "name": "Craftin sticks",
+    "authors": ["lostone1993"],
+    "description": "as simple as it gets, add recipes for sticks using firewood and axes",
+    "version": "1.0.0",
+    "dependencies": {
+        "game": "*"
+    }
+}

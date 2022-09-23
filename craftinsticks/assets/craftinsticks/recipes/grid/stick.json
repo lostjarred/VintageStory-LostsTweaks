@@ -1,0 +1,14 @@
+{
+	"ingredientPattern": "AF",
+	"ingredients": {
+		"A":  {
+			"type": "item", "code": "game:axe-*", "isTool": true },
+		"F": { 
+			"type": "item", "code": "game:firewood" }
+	},
+	"width": 1,
+	"height": 2,
+	"output": { 
+		"type": "item", "code": "game:stick", "quantity": 2 
+		}
+}
